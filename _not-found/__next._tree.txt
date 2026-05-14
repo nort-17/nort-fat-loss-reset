@@ -1,2 +1,2 @@
-:HL["/nort-fat-loss-reset/_next/static/chunks/0zr9~zz82k088.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"zmwI2oL5G_ZspwSqYpLBQ"}
+:HL["/nort-fat-loss-reset/_next/static/chunks/17wafny.tucg6.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"p-yLWyQoOZ4_hczAmTMSW"}
